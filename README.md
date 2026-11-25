@@ -2,53 +2,85 @@ Portafolio de Series de Tiempo
 
 Francisca Montes
 
-Repositorio correspondiente al portafolio final del curso Herramientas Avanzadas de Análisis de Datos.
+Portafolio final del curso Herramientas Avanzadas de Análisis de Datos.
 
-Este repositorio reúne cuatro proyectos desarrollados utilizando distintas herramientas de análisis y visualización de datos: Python, R, Power BI y Tableau.
+Este repositorio reúne cuatro proyectos desarrollados con distintas herramientas de análisis y visualización de datos: Python, R, Power BI y Tableau.
 
 Proyectos
 
 01 – Python
 
-Visualización y análisis inicial de una serie de tiempo económica relacionada con tasas de desocupación utilizando Python en Google Colab.
+Visualización de una serie de tiempo económica
 
-Incluye:
+Análisis inicial de una serie relacionada con tasas de desocupación utilizando Python en Google Colab.
+
+Contenido:
 
 * Notebook .ipynb
 * Base de datos
 * README del proyecto
+
+Cómo abrir: el notebook puede ejecutarse en Google Colab o Jupyter Notebook.
+
+Ver proyecto Python
+
+⸻
 
 02 – R
 
-Análisis de la serie económica IMACEC – Industria utilizando R, incorporando cálculos de variación, promedio móvil, visualizaciones e interpretación económica.
+Análisis de la serie IMACEC – Industria
 
-Incluye:
+Análisis de una serie económica utilizando R, incorporando variación en 12 meses, promedio móvil, visualizaciones e interpretación económica.
+
+Contenido:
 
 * Notebook .ipynb
 * Base de datos
 * README del proyecto
 
+Cómo abrir: el notebook puede ejecutarse en Google Colab con R.
+
+Ver proyecto R
+
+⸻
+
 03 – Power BI
 
-Construcción de un reporte de ventas para el Caso 09 – Polar mediante Power Query, modelamiento de datos, medidas DAX, KPI y visualizaciones.
+Reporte de ventas – Caso 09 Polar
 
-Incluye:
+Construcción de un reporte de ventas mediante Power Query, modelamiento de datos, medidas DAX, KPI y visualizaciones para responder preguntas de negocio.
+
+Contenido:
 
 * Archivo .pbix
 * Base de datos
 * Informe breve
 * README del proyecto
 
+Cómo abrir: utilizar Microsoft Power BI Desktop.
+
+Ver proyecto Power BI
+
+⸻
+
 04 – Tableau
 
-Construcción de un dashboard interactivo para analizar las ventas del Caso 09 – Polar entre enero de 2024 y diciembre de 2025.
+Dashboard de ventas – Caso 09 Polar
 
-Incluye:
+Construcción de un dashboard interactivo para analizar la evolución de las ventas entre enero de 2024 y diciembre de 2025, junto con el desempeño de categorías y sucursales.
+
+Contenido:
 
 * Workbook .twbx
 * Base de datos
 * Informe breve
 * README del proyecto
+
+Cómo abrir: utilizar Tableau Desktop o Tableau Public.
+
+Ver proyecto Tableau
+
+⸻
 
 Herramientas utilizadas
 
