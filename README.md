@@ -22,8 +22,6 @@ Contenido:
 
 Cómo abrir: el notebook puede ejecutarse en Google Colab o Jupyter Notebook.
 
-Ver proyecto Python
-
 ⸻
 
 02 – R
@@ -39,8 +37,6 @@ Contenido:
 * README del proyecto
 
 Cómo abrir: el notebook puede ejecutarse en Google Colab con R.
-
-Ver proyecto R
 
 ⸻
 
@@ -59,8 +55,6 @@ Contenido:
 
 Cómo abrir: utilizar Microsoft Power BI Desktop.
 
-Ver proyecto Power BI
-
 ⸻
 
 04 – Tableau
@@ -77,8 +71,6 @@ Contenido:
 * README del proyecto
 
 Cómo abrir: utilizar Tableau Desktop o Tableau Public.
-
-Ver proyecto Tableau
 
 ⸻
 
